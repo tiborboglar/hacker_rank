@@ -28,5 +28,3 @@ def minimumBribes (q):
             break
 
     return print(swaps)
-
-minimumBribes(q)
